@@ -248,14 +248,18 @@ export const HomePage = () => {
                                     <img className="group-31" alt="Group" src="/img/group-4.png" />
                                     <div className="group-32">
                                       <div className="overlap-group-7">
-                                        <div className="img-2">
+                                        <div className="rectangle-22">
                                           <div className="overlap-group-7">
                                             <img className="group-33" alt="Group" src="/img/group-3.png" />
-                                            <img className="img-2" alt="Rectangle" src="/img/rectangle.png" />
+                                            <img className="rectangle-22" alt="Rectangle" src="/img/rectangle.png" />
                                             <img className="group-34" alt="Group" src="/img/group-2.png" />
                                           </div>
                                         </div>
-                                        <img className="img-2" alt="Clip path group" src="/img/clip-path-group.png" />
+                                        <img
+                                          className="clip-path-group-2"
+                                          alt="Clip path group"
+                                          src="/img/clip-path-group.png"
+                                        />
                                       </div>
                                     </div>
                                   </div>
@@ -269,7 +273,7 @@ export const HomePage = () => {
                       </div>
                     </div>
                   </div>
-                  <div className="rectangle-22" />
+                  <div className="rectangle-23" />
                   <div className="posts-IVBAM">
                     <img
                       className="IVBAM-posts-normais"
@@ -302,27 +306,27 @@ export const HomePage = () => {
                       src="/img/ivbam-posts-normais-22.png"
                     />
                   </div>
-                  <div className="rectangle-23" />
+                  <div className="rectangle-24" />
                 </div>
                 <div className="overlap-12">
                   <img className="image-2" alt="Image" src="/img/image-2.png" />
                   <img className="herbalife" alt="Herbalife" src="/img/herbalife-1.png" />
-                  <div className="rectangle-24" />
                   <div className="rectangle-25" />
-                  <img className="lonas-ERA" alt="Lonas ERA" src="/img/lonas-era-01-1.png" />
                   <div className="rectangle-26" />
+                  <img className="lonas-ERA" alt="Lonas ERA" src="/img/lonas-era-01-1.png" />
+                  <div className="rectangle-27" />
                   <div className="anuncios-financestar">
                     <div className="overlap-13">
                       <img className="anncio" alt="Anncio" src="/img/an-ncio-1-1.png" />
-                      <img className="anncio-2" alt="Anncio" src="/img/an-ncio-2-1.png" />
+                      <img className="img-2" alt="Anncio" src="/img/an-ncio-2-1.png" />
                     </div>
                     <div className="overlap-14">
                       <img className="anncio" alt="Anncio" src="/img/an-ncio-3-1.png" />
-                      <img className="post" alt="Post" src="/img/post-1.png" />
+                      <img className="img-2" alt="Post" src="/img/post-1.png" />
                     </div>
                   </div>
-                  <div className="rectangle-27" />
                   <div className="rectangle-28" />
+                  <div className="rectangle-29" />
                 </div>
               </div>
               <img className="vector-7" alt="Vector" src="/img/vector.svg" />
@@ -431,56 +435,35 @@ export const HomePage = () => {
               </p>
             </div>
             <div className="text-wrapper-41">Communication</div>
-            <p className="element-clients">
-              <span className="text-wrapper-42">
-                +18
-                <br />
-              </span>
-              <span className="text-wrapper-43">Clients</span>
-            </p>
-            <p className="element-projects">
-              <span className="text-wrapper-44">
-                +31
-                <br />
-              </span>
-              <span className="text-wrapper-43">Projects</span>
-            </p>
-            <p className="element-meeting">
-              <span className="text-wrapper-45">
-                +326
-                <br />
-              </span>
-              <span className="text-wrapper-43">Meeting</span>
-            </p>
-            <p className="element-coffees-by-year">
-              <span className="text-wrapper-46">
-                +731
-                <br />
-              </span>
-              <span className="text-wrapper-43">
-                Coffees
-                <br />
-              </span>
-              <span className="text-wrapper-47">
-                <br />
-                *by year
-              </span>
-            </p>
-            <img className="logo-2" alt="Logo" src="/img/logo-07-5.png" />
-            <img className="logo-3" alt="Logo" src="/img/logo-07-5.png" />
-            <img className="logo-4" alt="Logo" src="/img/logo-07-5.png" />
+            <div className="overlap-20">
+              <div className="text-wrapper-42">+18</div>
+              <div className="text-wrapper-43">Clients</div>
+            </div>
+            <div className="overlap-21">
+              <div className="text-wrapper-44">+31</div>
+              <div className="text-wrapper-45">Projects</div>
+            </div>
+            <div className="overlap-22">
+              <div className="text-wrapper-46">+326</div>
+              <div className="text-wrapper-47">Meeting</div>
+            </div>
+            <div className="text-wrapper-48">+731</div>
+            <div className="text-wrapper-49">Coffees</div>
+            <img className="logo-2" alt="Logo" src="/img/logo-07-2.png" />
+            <img className="logo-3" alt="Logo" src="/img/logo-07-3.png" />
+            <img className="logo-4" alt="Logo" src="/img/logo-07-4.png" />
             <img className="logo-5" alt="Logo" src="/img/logo-07-5.png" />
-            <div className="text-wrapper-48">Adaptability</div>
-            <div className="text-wrapper-49">Empathy</div>
-            <div className="text-wrapper-50">Creativity</div>
-            <div className="text-wrapper-51">Resilience</div>
+            <div className="text-wrapper-50">Adaptability</div>
+            <div className="text-wrapper-51">Empathy</div>
+            <div className="text-wrapper-52">Creativity</div>
+            <div className="text-wrapper-53">Resilience</div>
           </div>
-          <div className="overlap-20">
+          <div className="overlap-23">
             <About className="about-instance" divClassName="design-component-instance-node-6" />
-            <Services className="services-instance" divClassName="services-2" />
+            <Services className="services-instance" divClassName="design-component-instance-node-7" />
             <Portfolio className="portfolio-instance" divClassName="design-component-instance-node-6" />
             <Blog className="blog-instance" divClassName="blog-2" />
-            <Contact className="contact-instance" divClassName="design-component-instance-node-6" />
+            <Contact className="contact-instance" divClassName="design-component-instance-node-7" />
           </div>
         </div>
         <Top

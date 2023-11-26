@@ -8,72 +8,72 @@
 
 .home-page .div-2 {
   background-color: #191919;
-  height: 720px;
+  height: 843.75px;
   position: relative;
-  width: 1280px;
+  width: 1500px;
 }
 
 .home-page .overlap {
   background-color: #191919;
-  height: 4900px;
+  height: 5742px;
   left: 0;
   position: absolute;
   top: 0;
-  width: 1280px;
+  width: 1500px;
 }
 
 .home-page .overlap-2 {
-  height: 864px;
-  left: 39px;
+  height: 1013px;
+  left: 45px;
   position: absolute;
-  top: 4029px;
-  width: 1195px;
+  top: 4722px;
+  width: 1401px;
 }
 
 .home-page .last-section {
-  height: 105px;
+  height: 123px;
   left: 0;
   position: absolute;
-  top: 759px;
-  width: 1195px;
+  top: 889px;
+  width: 1401px;
 }
 
 .home-page .group {
-  height: 93px;
-  left: 13px;
+  height: 109px;
+  left: 16px;
   position: relative;
-  width: 1172px;
+  width: 1373px;
 }
 
 .home-page .logo {
-  height: 93px;
+  height: 109px;
   left: 0;
   object-fit: cover;
   position: absolute;
   top: 0;
-  width: 91px;
+  width: 106px;
 }
 
 .home-page .dinarte-vieira {
   color: #ffffff;
   font-family: "Futura-Bold-Regular", Helvetica;
-  font-size: 51.3px;
+  font-size: 60.2px;
   font-weight: 400;
-  height: 61px;
-  left: 111px;
+  height: 72px;
+  left: 130px;
   letter-spacing: 0;
   line-height: normal;
   position: absolute;
   text-align: right;
-  top: 16px;
+  top: 19px;
   white-space: nowrap;
-  width: 329px;
+  width: 385px;
 }
 
 .home-page .span {
   color: #ffffff;
   font-family: "Futura-Bold-Regular", Helvetica;
-  font-size: 51.3px;
+  font-size: 60.2px;
   font-weight: 400;
   letter-spacing: 0;
 }
@@ -85,38 +85,38 @@
 .home-page .p {
   color: #e2e2e2;
   font-family: "Futura Md BT-Medium", Helvetica;
-  font-size: 18.7px;
+  font-size: 21.9px;
   font-weight: 500;
-  left: 807px;
+  left: 946px;
   letter-spacing: 0;
   line-height: normal;
   position: absolute;
   text-align: center;
-  top: 71px;
+  top: 83px;
   white-space: nowrap;
 }
 
 .home-page .element-section {
-  height: 782px;
-  left: 81px;
+  height: 916px;
+  left: 95px;
   overflow: hidden;
   position: absolute;
   top: 0;
-  width: 1039px;
+  width: 1218px;
 }
 
 .home-page .group-2 {
-  height: 85px;
-  left: 39px;
+  height: 99px;
+  left: 45px;
   position: absolute;
-  top: 373px;
-  width: 232px;
+  top: 437px;
+  width: 271px;
 }
 
 .home-page .text-wrapper-16 {
   color: #e2e2e2;
   font-family: "Futura Md BT-Medium", Helvetica;
-  font-size: 42.7px;
+  font-size: 50px;
   font-weight: 500;
   left: 0;
   letter-spacing: 0;
@@ -129,97 +129,97 @@
 .home-page .text-wrapper-17 {
   color: #e2e2e2;
   font-family: "Proxima Nova-Regular", Helvetica;
-  font-size: 26.7px;
+  font-size: 31.2px;
   font-weight: 400;
   left: 0;
   letter-spacing: 0;
   line-height: normal;
   position: absolute;
-  top: 58px;
+  top: 68px;
   white-space: nowrap;
 }
 
 .home-page .group-3 {
-  height: 85px;
-  left: 39px;
+  height: 99px;
+  left: 45px;
   position: absolute;
-  top: 485px;
-  width: 377px;
+  top: 568px;
+  width: 441px;
 }
 
 .home-page .group-4 {
-  height: 85px;
-  left: 39px;
+  height: 99px;
+  left: 45px;
   position: absolute;
-  top: 596px;
-  width: 205px;
+  top: 698px;
+  width: 239px;
 }
 
 .home-page .overlap-group-2 {
-  height: 234px;
+  height: 274px;
   left: 0;
   position: absolute;
-  top: 51px;
-  width: 411px;
+  top: 60px;
+  width: 482px;
 }
 
 .home-page .ready-to-chat {
   color: #e2e2e2;
   font-family: "Futura Bk BT-Regular", Helvetica;
-  font-size: 92px;
+  font-size: 107.8px;
   font-weight: 400;
-  height: 232px;
+  height: 272px;
   left: 5px;
   letter-spacing: 0;
-  line-height: 90.9px;
+  line-height: 106.5px;
   position: absolute;
   top: 0;
-  width: 407px;
+  width: 477px;
 }
 
 .home-page .text-wrapper-18 {
   color: #e2e2e2;
   font-family: "Futura Bk BT-Regular", Helvetica;
-  font-size: 92px;
+  font-size: 107.8px;
   font-weight: 400;
   letter-spacing: 0;
-  line-height: 90.9px;
+  line-height: 106.5px;
 }
 
 .home-page .text-wrapper-19 {
   font-family: "Futura-Bold-Regular", Helvetica;
-  font-size: 122px;
-  line-height: 120.6px;
+  font-size: 143px;
+  line-height: 141.3px;
 }
 
 .home-page .vector-2 {
-  height: 6px;
+  height: 7px;
   left: 0;
   position: absolute;
-  top: 228px;
-  width: 388px;
+  top: 267px;
+  width: 454px;
 }
 
 .home-page .text-wrapper-20 {
   color: #ffb937;
   font-family: "Futura Hv BT-Heavy", Helvetica;
-  font-size: 16.7px;
+  font-size: 19.5px;
   font-weight: 400;
-  height: 32px;
+  height: 38px;
   left: 0;
   letter-spacing: 0;
   line-height: normal;
   position: absolute;
-  top: 287px;
-  width: 241px;
+  top: 337px;
+  width: 283px;
 }
 
 .home-page .overlap-3 {
-  height: 793px;
-  left: 541px;
+  height: 929px;
+  left: 634px;
   position: absolute;
-  top: -8px;
-  width: 498px;
+  top: -9px;
+  width: 584px;
 }
 
 .home-page .form-page {
@@ -227,56 +227,56 @@
   background-color: #191919;
   display: flex;
   flex-direction: column;
-  gap: 20.74px;
+  gap: 24.3px;
   left: 0;
-  padding: 41.48px 20.74px 20.74px;
+  padding: 48.61px 24.3px 24.3px;
   position: absolute;
   top: 0;
-  width: 498px;
+  width: 584px;
 }
 
 .home-page .frame-6 {
   align-items: flex-start;
   align-self: stretch;
   background-color: #191919;
-  box-shadow: 0px 1.04px 4.15px #00000029;
+  box-shadow: 0px 1.22px 4.86px #00000029;
   display: flex;
   flex: 0 0 auto;
   flex-direction: column;
-  gap: 20.74px;
-  max-width: 725.89px;
-  padding: 20.74px;
+  gap: 24.3px;
+  max-width: 850.65px;
+  padding: 24.3px;
   position: relative;
   width: 100%;
 }
 
 .home-page .design-component-instance-node {
   flex: 0 0 auto !important;
-  gap: 10.37px !important;
-  width: 404.42px !important;
+  gap: 12.15px !important;
+  width: 473.93px !important;
 }
 
 .home-page .design-component-instance-node-2 {
   font-family: "Spartan", Helvetica !important;
-  font-size: 14.5px !important;
+  font-size: 17px !important;
   font-style: unset !important;
   font-weight: 700 !important;
   letter-spacing: 0 !important;
   line-height: normal !important;
-  margin-top: -1.04px !important;
+  margin-top: -1.22px !important;
 }
 
 .home-page .design-component-instance-node-3 {
   background-color: #e2e2e2 !important;
-  border: 1.04px solid !important;
-  border-radius: 4.15px !important;
-  height: 41.48px !important;
-  padding: 0px 15.55px !important;
+  border: 1.22px solid !important;
+  border-radius: 4.86px !important;
+  height: 48.61px !important;
+  padding: 0px 18.23px !important;
 }
 
 .home-page .design-component-instance-node-4 {
   font-family: "Spartan", Helvetica !important;
-  font-size: 14.5px !important;
+  font-size: 17px !important;
   font-style: unset !important;
   font-weight: 400 !important;
   letter-spacing: 0 !important;
@@ -285,7 +285,7 @@
 
 .home-page .design-component-instance-node-5 {
   font-family: "Spartan", Helvetica !important;
-  font-size: 12.4px !important;
+  font-size: 14.6px !important;
   font-style: unset !important;
   font-weight: 400 !important;
   letter-spacing: 0 !important;
@@ -294,347 +294,351 @@
 
 .home-page .paragraph-instance {
   background-color: #e2e2e2 !important;
-  border: 1.04px solid !important;
-  border-radius: 4.15px !important;
-  height: 124.44px !important;
-  padding: 15.55px !important;
+  border: 1.22px solid !important;
+  border-radius: 4.86px !important;
+  height: 145.83px !important;
+  padding: 18.23px !important;
 }
 
 .home-page .paragraph-2 {
   font-family: "Spartan", Helvetica !important;
-  font-size: 14.5px !important;
+  font-size: 17px !important;
   font-style: unset !important;
   font-weight: 400 !important;
   letter-spacing: 0 !important;
   line-height: normal !important;
-  margin-top: -1.04px !important;
+  margin-top: -1.22px !important;
 }
 
 .home-page .dropdown-instance {
-  left: 378px !important;
-  top: 18px !important;
+  height: 9px !important;
+  left: 444px !important;
+  top: 21px !important;
+  width: 13px !important;
 }
 
 .home-page .submit-button-instance {
-  border-radius: 8.3px !important;
-  height: 41.48px !important;
-  padding: 8.3px 20.74px !important;
+  border-radius: 9.72px !important;
+  height: 48.61px !important;
+  padding: 9.72px 24.3px !important;
 }
 
 .home-page .submit-button-2 {
-  font-size: 14.5px !important;
+  font-size: 17px !important;
 }
 
 .home-page .rectangle {
-  border: 10px solid;
+  border: 11.72px solid;
   border-color: transparent;
   border-image: linear-gradient(to bottom, rgb(255, 179, 55), rgb(255, 255, 51) 48.44%, rgba(25, 25, 25, 0) 83.75%) 1;
-  height: 751px;
+  height: 880px;
   left: 0;
   position: absolute;
-  top: 41px;
-  width: 488px;
+  top: 48px;
+  width: 572px;
 }
 
 .home-page .overlap-4 {
-  height: 2595px;
+  height: 3041px;
   left: 0;
   position: absolute;
-  top: 1435px;
-  width: 1280px;
+  top: 1681px;
+  width: 1500px;
 }
 
 .home-page .element-th-section {
-  height: 834px;
+  height: 977px;
   left: 0;
+  overflow: hidden;
   position: absolute;
-  top: 1761px;
-  width: 1280px;
+  top: 2063px;
+  width: 1500px;
 }
 
 .home-page .text-wrapper-21 {
   color: #ffb937;
   font-family: "Futura Hv BT-Heavy", Helvetica;
-  font-size: 16.7px;
+  font-size: 19.5px;
   font-weight: 400;
-  height: 32px;
-  left: 995px;
+  height: 38px;
+  left: 1166px;
   letter-spacing: 0;
   line-height: normal;
   position: absolute;
   text-align: center;
-  top: 153px;
-  width: 201px;
+  top: 180px;
+  width: 236px;
 }
 
 .home-page .vector-3 {
-  height: 7px;
-  left: 515px;
+  height: 9px;
+  left: 604px;
   position: absolute;
-  top: 143px;
-  width: 681px;
+  top: 167px;
+  width: 798px;
 }
 
 .home-page .text-wrapper-22 {
   color: #e2e2e2;
   font-family: "Futura-Bold-Regular", Helvetica;
-  font-size: 50.7px;
+  font-size: 59.4px;
   font-weight: 400;
-  height: 58px;
-  left: 260px;
+  height: 68px;
+  left: 305px;
   letter-spacing: 0;
   line-height: normal;
   position: absolute;
   text-align: center;
-  top: 78px;
+  top: 91px;
   white-space: nowrap;
 }
 
 .home-page .slide-noticias {
-  height: 569px;
+  height: 666px;
   left: 0;
+  overflow: hidden;
   position: absolute;
-  top: 228px;
-  width: 1280px;
+  top: 267px;
+  width: 1500px;
 }
 
 .home-page .div-3 {
-  height: 533px;
+  height: 625px;
   left: 0;
   position: absolute;
   top: 0;
-  width: 3494px;
+  width: 4095px;
 }
 
 .home-page .group-5 {
-  height: 533px;
-  left: 128px;
+  height: 625px;
+  left: 151px;
   position: relative;
-  width: 3191px;
+  width: 3740px;
 }
 
 .home-page .component-wrapper {
-  border-radius: 41.55px;
-  height: 533px;
+  border-radius: 48.69px;
+  height: 625px;
   left: 0;
   overflow: hidden;
   position: absolute;
   top: 0;
-  width: 565px;
+  width: 662px;
 }
 
 .home-page .component {
-  border-radius: 41.55px;
-  height: 533px;
+  border-radius: 48.69px;
+  height: 625px;
   overflow: hidden;
   position: relative;
 }
 
 .home-page .rectangle-2 {
-  height: 541px;
+  height: 634px;
   left: -4px;
   position: absolute;
   top: -4px;
-  width: 573px;
+  width: 672px;
 }
 
 .home-page .frame-7 {
-  border-radius: 41.55px;
-  height: 533px;
-  left: 657px;
+  border-radius: 48.69px;
+  height: 625px;
+  left: 769px;
   overflow: hidden;
   position: absolute;
   top: 0;
-  width: 565px;
+  width: 662px;
 }
 
 .home-page .rectangle-3 {
-  height: 542px;
-  left: -5px;
-  position: absolute;
-  top: -4px;
-  width: 575px;
-}
-
-.home-page .frame-8 {
-  border-radius: 41.55px;
-  height: 533px;
-  left: 1313px;
-  overflow: hidden;
-  position: absolute;
-  top: 0;
-  width: 565px;
-}
-
-.home-page .rectangle-4 {
-  height: 544px;
+  height: 636px;
   left: -6px;
   position: absolute;
   top: -5px;
-  width: 577px;
+  width: 674px;
+}
+
+.home-page .frame-8 {
+  border-radius: 48.69px;
+  height: 625px;
+  left: 1539px;
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+  width: 662px;
+}
+
+.home-page .rectangle-4 {
+  height: 637px;
+  left: -7px;
+  position: absolute;
+  top: -6px;
+  width: 676px;
 }
 
 .home-page .frame-9 {
-  border-radius: 41.55px;
-  height: 533px;
-  left: 1970px;
+  border-radius: 48.69px;
+  height: 625px;
+  left: 2308px;
   overflow: hidden;
   position: absolute;
   top: 0;
-  width: 565px;
+  width: 662px;
 }
 
 .home-page .rectangle-5 {
-  height: 538px;
+  height: 631px;
   left: -3px;
   position: absolute;
   top: -3px;
-  width: 571px;
+  width: 669px;
 }
 
 .home-page .frame-10 {
-  border-radius: 41.55px;
-  height: 533px;
-  left: 2626px;
+  border-radius: 48.69px;
+  height: 625px;
+  left: 3078px;
   overflow: hidden;
   position: absolute;
   top: 0;
-  width: 565px;
+  width: 662px;
 }
 
 .home-page .rectangle-6 {
-  height: 543px;
-  left: -5px;
+  height: 636px;
+  left: -6px;
   position: absolute;
-  top: -5px;
-  width: 576px;
+  top: -6px;
+  width: 675px;
 }
 
 .home-page .right {
   background-color: #191919;
-  border-radius: 32.8px;
-  box-shadow: 0px 4.37px 7.11px #e2e2e2;
-  height: 66px;
-  left: 665px;
+  border-radius: 38.44px;
+  box-shadow: 0px 5.12px 8.33px #e2e2e2;
+  height: 77px;
+  left: 779px;
   position: absolute;
-  top: 201px;
+  top: 236px;
   transform: rotate(180deg);
-  width: 66px;
+  width: 77px;
 }
 
 .home-page .arrow {
   height: 1px;
-  left: 24px;
+  left: 28px;
   position: absolute;
-  top: 33px;
+  top: 38px;
   transform: rotate(-180deg);
-  width: 2px;
+  width: 3px;
 }
 
 .home-page .dots {
-  height: 12px;
-  left: 353px;
+  height: 14px;
+  left: 413px;
   position: absolute;
-  top: 557px;
-  width: 117px;
+  top: 653px;
+  width: 137px;
 }
 
 .home-page .ellipse {
   background-color: #ffff33;
-  border-radius: 6.01px;
-  height: 12px;
+  border-radius: 7.05px;
+  height: 14px;
   left: 0;
   position: absolute;
   top: 0;
-  width: 12px;
+  width: 14px;
 }
 
 .home-page .ellipse-2 {
   background-color: #d9d9d9;
-  border-radius: 6.01px;
-  height: 12px;
-  left: 26px;
+  border-radius: 7.05px;
+  height: 14px;
+  left: 31px;
   position: absolute;
   top: 0;
-  width: 12px;
+  width: 14px;
 }
 
 .home-page .ellipse-3 {
   background-color: #d9d9d9;
-  border-radius: 6.01px;
-  height: 12px;
-  left: 52px;
+  border-radius: 7.05px;
+  height: 14px;
+  left: 62px;
   position: absolute;
   top: 0;
-  width: 12px;
+  width: 14px;
 }
 
 .home-page .ellipse-4 {
   background-color: #d9d9d9;
-  border-radius: 6.01px;
-  height: 12px;
-  left: 79px;
+  border-radius: 7.05px;
+  height: 14px;
+  left: 92px;
   position: absolute;
   top: 0;
-  width: 12px;
+  width: 14px;
 }
 
 .home-page .ellipse-5 {
   background-color: #d9d9d9;
-  border-radius: 6.01px;
-  height: 12px;
-  left: 105px;
+  border-radius: 7.05px;
+  height: 14px;
+  left: 123px;
   position: absolute;
   top: 0;
-  width: 12px;
+  width: 14px;
 }
 
 .home-page .element-section-2 {
-  height: 1127px;
-  left: 37px;
+  height: 1321px;
+  left: 43px;
   overflow: hidden;
   position: absolute;
-  top: 681px;
-  width: 1207px;
+  top: 798px;
+  width: 1414px;
 }
 
 .home-page .text-wrapper-23 {
   color: #ffb937;
   font-family: "Futura Hv BT-Heavy", Helvetica;
-  font-size: 16.7px;
+  font-size: 19.5px;
   font-weight: 400;
-  height: 32px;
-  left: 37px;
+  height: 38px;
+  left: 43px;
   letter-spacing: 0;
   line-height: normal;
   position: absolute;
   text-align: center;
-  top: 120px;
-  width: 302px;
+  top: 141px;
+  width: 354px;
 }
 
 .home-page .overlap-5 {
-  height: 60px;
-  left: 45px;
+  height: 70px;
+  left: 52px;
   position: absolute;
-  top: 45px;
-  width: 863px;
+  top: 52px;
+  width: 1012px;
 }
 
 .home-page .layer {
-  height: 5px;
+  height: 6px;
   left: 0;
   position: absolute;
-  top: 55px;
-  width: 863px;
+  top: 64px;
+  width: 1012px;
 }
 
 .home-page .text-wrapper-24 {
   color: #e2e2e2;
   font-family: "Futura-Bold-Regular", Helvetica;
-  font-size: 50.7px;
+  font-size: 59.4px;
   font-weight: 400;
-  height: 58px;
+  height: 68px;
   left: 0;
   letter-spacing: 0;
   line-height: normal;
@@ -645,1549 +649,1606 @@
 }
 
 .home-page .overlap-6 {
-  height: 830px;
+  height: 973px;
   left: 0;
   position: absolute;
-  top: 214px;
-  width: 1207px;
+  top: 251px;
+  width: 1414px;
 }
 
 .home-page .overlap-7 {
-  height: 655px;
+  height: 768px;
   left: 0;
   position: absolute;
-  top: 175px;
-  width: 1207px;
+  top: 205px;
+  width: 1414px;
 }
 
 .home-page .image {
-  height: 460px;
+  height: 539px;
   left: 0;
   object-fit: cover;
   position: absolute;
-  top: 189px;
-  width: 733px;
+  top: 221px;
+  width: 859px;
 }
 
 .home-page .overlap-wrapper {
-  height: 434px;
-  left: 688px;
+  height: 509px;
+  left: 806px;
   overflow: hidden;
   position: absolute;
-  top: 221px;
-  width: 489px;
+  top: 259px;
+  width: 573px;
 }
 
 .home-page .overlap-8 {
-  height: 435px;
+  height: 509px;
   position: relative;
-  width: 492px;
+  width: 577px;
 }
 
 .home-page .vector-4 {
-  height: 419px;
-  left: 61px;
+  height: 491px;
+  left: 72px;
   position: absolute;
-  top: 7px;
-  width: 297px;
+  top: 9px;
+  width: 348px;
 }
 
 .home-page .overlap-group-wrapper {
-  height: 435px;
+  height: 509px;
   left: 0;
   position: absolute;
   top: 0;
-  width: 492px;
+  width: 577px;
 }
 
 .home-page .overlap-group-3 {
-  height: 435px;
+  height: 509px;
   position: relative;
 }
 
 .home-page .rectangle-7 {
-  height: 253px;
-  left: 42px;
+  height: 296px;
+  left: 49px;
   position: absolute;
-  top: 7px;
-  width: 450px;
+  top: 9px;
+  width: 528px;
 }
 
 .home-page .rectangle-8 {
-  height: 151px;
+  height: 177px;
   left: 0;
   position: absolute;
   top: 0;
-  width: 268px;
+  width: 314px;
 }
 
 .home-page .rectangle-9 {
-  height: 86px;
-  left: 68px;
+  height: 101px;
+  left: 79px;
   position: absolute;
-  top: 129px;
-  width: 153px;
+  top: 151px;
+  width: 180px;
 }
 
 .home-page .rectangle-10 {
-  height: 124px;
-  left: 27px;
+  height: 145px;
+  left: 31px;
   position: absolute;
-  top: 206px;
-  width: 220px;
+  top: 241px;
+  width: 258px;
 }
 
 .home-page .rectangle-11 {
-  height: 108px;
-  left: 4px;
+  height: 126px;
+  left: 5px;
   position: absolute;
-  top: 327px;
-  width: 192px;
+  top: 383px;
+  width: 225px;
 }
 
 .home-page .rectangle-12 {
-  height: 108px;
-  left: 91px;
+  height: 126px;
+  left: 107px;
   position: absolute;
-  top: 323px;
-  width: 192px;
+  top: 379px;
+  width: 225px;
 }
 
 .home-page .rectangle-13 {
-  height: 108px;
-  left: 207px;
+  height: 126px;
+  left: 243px;
   position: absolute;
-  top: 324px;
-  width: 192px;
+  top: 380px;
+  width: 225px;
 }
 
 .home-page .rectangle-14 {
-  height: 102px;
-  left: 194px;
+  height: 120px;
+  left: 227px;
   position: absolute;
-  top: 231px;
-  width: 182px;
+  top: 270px;
+  width: 213px;
 }
 
 .home-page .rectangle-15 {
-  border: 6px solid;
+  border: 7.03px solid;
   border-color: #e2e2e2;
-  height: 301px;
-  left: 687px;
+  height: 352px;
+  left: 805px;
   position: absolute;
-  top: 288px;
+  top: 338px;
   transform: rotate(-90deg);
-  width: 419px;
+  width: 491px;
 }
 
 .home-page .rectangle-16 {
   background-color: #ffffff;
-  height: 143px;
-  left: 926px;
+  height: 167px;
+  left: 1085px;
   position: absolute;
-  top: 367px;
+  top: 430px;
   transform: rotate(-90deg);
-  width: 419px;
+  width: 491px;
 }
 
 .home-page .rectangle-17 {
-  border: 6px solid;
+  border: 7.03px solid;
   border-color: #e2e2e2;
-  height: 143px;
-  left: 925px;
+  height: 167px;
+  left: 1084px;
   position: absolute;
-  top: 367px;
+  top: 430px;
   transform: rotate(-90deg);
-  width: 420px;
+  width: 492px;
 }
 
 .home-page .group-wrapper {
-  height: 347px;
-  left: 1087px;
+  height: 407px;
+  left: 1274px;
   overflow: hidden;
   position: absolute;
-  top: 265px;
-  width: 97px;
+  top: 310px;
+  width: 113px;
 }
 
 .home-page .layer-wrapper {
-  height: 347px;
+  height: 407px;
 }
 
 .home-page .layer-2 {
-  height: 347px;
+  height: 407px;
   position: relative;
-  width: 97px;
+  width: 113px;
 }
 
 .home-page .group-6 {
-  height: 91px;
-  left: 10px;
+  height: 106px;
+  left: 12px;
   position: absolute;
   top: 0;
-  width: 76px;
+  width: 89px;
 }
 
 .home-page .group-7 {
-  height: 27px;
+  height: 32px;
   left: 0;
   position: absolute;
-  top: 63px;
-  width: 76px;
+  top: 74px;
+  width: 89px;
 }
 
 .home-page .overlap-9 {
-  height: 62px;
-  left: 4px;
+  height: 73px;
+  left: 5px;
   position: absolute;
   top: 0;
-  width: 69px;
+  width: 81px;
 }
 
 .home-page .vector-5 {
-  height: 24px;
+  height: 28px;
   left: 0;
   position: absolute;
-  top: 38px;
-  width: 69px;
+  top: 45px;
+  width: 81px;
 }
 
 .home-page .vector-6 {
-  height: 16px;
-  left: 11px;
+  height: 19px;
+  left: 12px;
   position: absolute;
-  top: 40px;
-  width: 48px;
+  top: 47px;
+  width: 56px;
 }
 
 .home-page .group-8 {
-  height: 53px;
-  left: 10px;
+  height: 62px;
+  left: 12px;
   position: absolute;
   top: 0;
-  width: 49px;
+  width: 58px;
 }
 
 .home-page .overlap-10 {
-  height: 53px;
+  height: 62px;
   position: relative;
 }
 
 .home-page .group-9 {
   height: 3px;
-  left: 6px;
+  left: 8px;
   position: absolute;
-  top: 50px;
-  width: 23px;
+  top: 59px;
+  width: 27px;
 }
 
 .home-page .group-10 {
-  height: 53px;
+  height: 62px;
   left: 0;
   position: absolute;
   top: 0;
-  width: 49px;
+  width: 58px;
 }
 
 .home-page .group-11 {
-  height: 26px;
+  height: 30px;
   left: 0;
   position: absolute;
-  top: 25px;
-  width: 24px;
+  top: 30px;
+  width: 29px;
 }
 
 .home-page .overlap-group-4 {
-  height: 26px;
+  height: 30px;
   position: relative;
 }
 
 .home-page .clip-path-group {
-  height: 26px;
+  height: 30px;
   left: 0;
   position: absolute;
   top: 0;
-  width: 24px;
+  width: 29px;
 }
 
 .home-page .group-12 {
-  height: 19px;
+  height: 23px;
   left: 6px;
   position: absolute;
-  top: 2px;
-  width: 18px;
+  top: 3px;
+  width: 21px;
 }
 
 .home-page .img-wrapper {
   background-image: url(../../../static/img/rectangle-6.png);
   background-size: 100% 100%;
-  height: 26px;
+  height: 30px;
   left: 0;
   position: absolute;
   top: 0;
-  width: 24px;
+  width: 29px;
 }
 
 .home-page .group-13 {
-  height: 15px;
-  left: 9px;
+  height: 17px;
+  left: 11px;
   mix-blend-mode: screen;
   position: absolute;
-  top: 11px;
-  width: 15px;
+  top: 12px;
+  width: 17px;
 }
 
 .home-page .group-14 {
-  height: 14px;
-  left: 7px;
+  height: 17px;
+  left: 9px;
   mix-blend-mode: screen;
   position: absolute;
-  top: 7px;
-  width: 14px;
+  top: 9px;
+  width: 17px;
 }
 
 .home-page .group-15 {
-  height: 51px;
-  left: 18px;
+  height: 60px;
+  left: 21px;
   position: absolute;
   top: 0;
-  width: 19px;
+  width: 23px;
 }
 
 .home-page .overlap-group-5 {
-  height: 51px;
+  height: 60px;
   position: relative;
 }
 
 .home-page .group-16 {
-  height: 29px;
+  height: 34px;
   left: 1px;
   position: absolute;
-  top: 10px;
-  width: 13px;
+  top: 11px;
+  width: 16px;
 }
 
 .home-page .group-17 {
-  height: 51px;
+  height: 60px;
   left: 0;
   position: absolute;
   top: 0;
-  width: 19px;
+  width: 23px;
 }
 
 .home-page .rectangle-18 {
-  height: 51px;
-  left: 6px;
+  height: 60px;
+  left: 8px;
   position: absolute;
   top: 0;
-  width: 13px;
+  width: 15px;
 }
 
 .home-page .rectangle-19 {
-  height: 51px;
+  height: 60px;
   left: 0;
   position: absolute;
   top: 0;
-  width: 18px;
+  width: 21px;
 }
 
 .home-page .group-18 {
-  height: 38px;
-  left: 13px;
+  height: 45px;
+  left: 15px;
   position: absolute;
-  top: 6px;
-  width: 5px;
+  top: 7px;
+  width: 6px;
 }
 
 .home-page .group-19 {
-  height: 16px;
+  height: 19px;
   left: 3px;
   mix-blend-mode: screen;
   position: absolute;
-  top: 32px;
-  width: 9px;
+  top: 38px;
+  width: 11px;
 }
 
 .home-page .group-20 {
-  height: 24px;
-  left: 4px;
+  height: 28px;
+  left: 5px;
   mix-blend-mode: screen;
   position: absolute;
-  top: 24px;
-  width: 10px;
+  top: 28px;
+  width: 12px;
 }
 
 .home-page .group-21 {
-  height: 29px;
-  left: 16px;
+  height: 34px;
+  left: 19px;
   position: absolute;
-  top: 21px;
-  width: 10px;
+  top: 25px;
+  width: 12px;
 }
 
 .home-page .overlap-group-6 {
-  height: 29px;
+  height: 34px;
   position: relative;
 }
 
 .home-page .group-22 {
-  height: 17px;
+  height: 19px;
   left: 0;
   position: absolute;
-  top: 6px;
-  width: 3px;
+  top: 7px;
+  width: 4px;
 }
 
 .home-page .group-23 {
-  height: 29px;
+  height: 34px;
   left: 1px;
   position: absolute;
   top: 0;
-  width: 10px;
+  width: 11px;
 }
 
 .home-page .rectangle-20 {
-  height: 29px;
-  left: 2px;
-  position: absolute;
-  top: 0;
-  width: 7px;
-}
-
-.home-page .rectangle-21 {
-  height: 29px;
-  left: 0;
+  height: 34px;
+  left: 3px;
   position: absolute;
   top: 0;
   width: 9px;
 }
 
+.home-page .rectangle-21 {
+  height: 34px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 10px;
+}
+
 .home-page .group-24 {
-  height: 22px;
+  height: 25px;
   left: 3px;
   position: absolute;
   top: 4px;
-  width: 7px;
+  width: 8px;
 }
 
 .home-page .group-25 {
-  height: 14px;
+  height: 16px;
   left: 3px;
   mix-blend-mode: screen;
   position: absolute;
-  top: 11px;
-  width: 5px;
+  top: 13px;
+  width: 6px;
 }
 
 .home-page .group-26 {
-  height: 40px;
-  left: 4px;
+  height: 47px;
+  left: 5px;
   position: absolute;
-  top: 11px;
-  width: 22px;
+  top: 13px;
+  width: 25px;
 }
 
 .home-page .overlap-11 {
-  height: 40px;
+  height: 47px;
   position: relative;
 }
 
 .home-page .group-27 {
-  height: 30px;
-  left: 6px;
+  height: 36px;
+  left: 7px;
   position: absolute;
   top: 5px;
-  width: 16px;
+  width: 18px;
 }
 
 .home-page .group-28 {
   background-image: url(../../../static/img/rectangle-1.png);
   background-size: 100% 100%;
-  height: 40px;
+  height: 47px;
   left: 0;
   position: absolute;
   top: 0;
-  width: 22px;
+  width: 25px;
 }
 
 .home-page .group-29 {
-  height: 22px;
-  left: 7px;
-  mix-blend-mode: screen;
-  position: absolute;
-  top: 17px;
-  width: 14px;
-}
-
-.home-page .group-30 {
-  height: 22px;
-  left: 6px;
-  mix-blend-mode: screen;
-  position: absolute;
-  top: 12px;
-  width: 13px;
-}
-
-.home-page .group-31 {
-  height: 18px;
-  left: 15px;
-  mix-blend-mode: multiply;
-  position: absolute;
-  top: 35px;
-  width: 24px;
-}
-
-.home-page .group-32 {
-  height: 27px;
-  left: 16px;
-  position: absolute;
-  top: 25px;
-  width: 33px;
-}
-
-.home-page .overlap-group-7 {
-  height: 27px;
-  position: relative;
-}
-
-.home-page .img-2 {
-  height: 27px;
-  left: 0;
-  position: absolute;
-  top: 0;
-  width: 33px;
-}
-
-.home-page .group-33 {
-  height: 21px;
-  left: 5px;
-  position: absolute;
-  top: 2px;
-  width: 22px;
-}
-
-.home-page .group-34 {
-  height: 14px;
+  height: 26px;
   left: 8px;
   mix-blend-mode: screen;
   position: absolute;
-  top: 13px;
+  top: 19px;
   width: 16px;
 }
 
-.home-page .group-35 {
-  height: 98px;
-  left: 0;
+.home-page .group-30 {
+  height: 26px;
+  left: 7px;
+  mix-blend-mode: screen;
   position: absolute;
-  top: 133px;
-  width: 97px;
+  top: 14px;
+  width: 15px;
 }
 
-.home-page .group-36 {
-  height: 54px;
-  left: 8px;
+.home-page .group-31 {
+  height: 21px;
+  left: 18px;
+  mix-blend-mode: multiply;
   position: absolute;
-  top: 293px;
-  width: 82px;
+  top: 41px;
+  width: 28px;
+}
+
+.home-page .group-32 {
+  height: 32px;
+  left: 19px;
+  position: absolute;
+  top: 29px;
+  width: 39px;
+}
+
+.home-page .overlap-group-7 {
+  height: 32px;
+  position: relative;
 }
 
 .home-page .rectangle-22 {
-  border: 6px solid;
-  border-color: #e2e2e2;
-  height: 460px;
+  height: 32px;
   left: 0;
   position: absolute;
-  top: 189px;
-  width: 733px;
+  top: 0;
+  width: 39px;
 }
 
-.home-page .posts-IVBAM {
-  height: 196px;
-  left: 968px;
+.home-page .group-33 {
+  height: 25px;
+  left: 6px;
   position: absolute;
-  top: 4px;
-  width: 234px;
+  top: 2px;
+  width: 26px;
 }
 
-.home-page .IVBAM-posts-normais {
-  height: 98px;
-  left: 156px;
-  object-fit: cover;
+.home-page .group-34 {
+  height: 16px;
+  left: 9px;
+  mix-blend-mode: screen;
   position: absolute;
-  top: 98px;
-  width: 78px;
+  top: 15px;
+  width: 18px;
 }
 
-.home-page .IVBAM-posts-normais-2 {
-  height: 98px;
+.home-page .clip-path-group-2 {
+  height: 32px;
   left: 0;
-  object-fit: cover;
   position: absolute;
   top: 0;
-  width: 78px;
+  width: 38px;
 }
 
-.home-page .IVBAM-posts-normais-3 {
-  height: 98px;
-  left: 78px;
-  object-fit: cover;
-  position: absolute;
-  top: 0;
-  width: 78px;
-}
-
-.home-page .IVBAM-posts-normais-4 {
-  height: 98px;
-  left: 156px;
-  object-fit: cover;
-  position: absolute;
-  top: 0;
-  width: 78px;
-}
-
-.home-page .IVBAM-posts-normais-5 {
-  height: 98px;
+.home-page .group-35 {
+  height: 115px;
   left: 0;
-  object-fit: cover;
   position: absolute;
-  top: 98px;
-  width: 78px;
+  top: 155px;
+  width: 113px;
 }
 
-.home-page .IVBAM-posts-normais-6 {
-  height: 98px;
-  left: 78px;
-  object-fit: cover;
+.home-page .group-36 {
+  height: 64px;
+  left: 10px;
   position: absolute;
-  top: 98px;
-  width: 78px;
+  top: 343px;
+  width: 96px;
 }
 
 .home-page .rectangle-23 {
-  border: 6px solid;
+  border: 7.03px solid;
   border-color: #e2e2e2;
-  height: 241px;
-  left: 983px;
-  position: absolute;
-  top: -18px;
-  transform: rotate(-90deg);
-  width: 205px;
-}
-
-.home-page .overlap-12 {
-  height: 380px;
+  height: 539px;
   left: 0;
   position: absolute;
-  top: 0;
-  width: 1202px;
+  top: 221px;
+  width: 859px;
 }
 
-.home-page .image-2 {
-  height: 349px;
+.home-page .posts-IVBAM {
+  height: 230px;
+  left: 1135px;
+  position: absolute;
+  top: 5px;
+  width: 275px;
+}
+
+.home-page .IVBAM-posts-normais {
+  height: 114px;
+  left: 183px;
+  object-fit: cover;
+  position: absolute;
+  top: 115px;
+  width: 92px;
+}
+
+.home-page .IVBAM-posts-normais-2 {
+  height: 115px;
   left: 0;
   object-fit: cover;
   position: absolute;
   top: 0;
-  width: 526px;
+  width: 92px;
 }
 
-.home-page .herbalife {
-  height: 344px;
-  left: 539px;
+.home-page .IVBAM-posts-normais-3 {
+  height: 115px;
+  left: 92px;
   object-fit: cover;
   position: absolute;
-  top: 3px;
-  width: 191px;
+  top: 0;
+  width: 92px;
+}
+
+.home-page .IVBAM-posts-normais-4 {
+  height: 115px;
+  left: 183px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 92px;
+}
+
+.home-page .IVBAM-posts-normais-5 {
+  height: 114px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 115px;
+  width: 92px;
+}
+
+.home-page .IVBAM-posts-normais-6 {
+  height: 114px;
+  left: 92px;
+  object-fit: cover;
+  position: absolute;
+  top: 115px;
+  width: 92px;
 }
 
 .home-page .rectangle-24 {
-  border: 6px solid;
+  border: 7.03px solid;
   border-color: #e2e2e2;
-  height: 196px;
-  left: 460px;
+  height: 283px;
+  left: 1152px;
   position: absolute;
-  top: 76px;
+  top: -21px;
   transform: rotate(-90deg);
-  width: 349px;
+  width: 241px;
+}
+
+.home-page .overlap-12 {
+  height: 445px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1409px;
+}
+
+.home-page .image-2 {
+  height: 409px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 616px;
+}
+
+.home-page .herbalife {
+  height: 403px;
+  left: 631px;
+  object-fit: cover;
+  position: absolute;
+  top: 3px;
+  width: 224px;
 }
 
 .home-page .rectangle-25 {
-  background-color: #ffffff;
-  height: 154px;
-  left: 747px;
+  border: 7.03px solid;
+  border-color: #e2e2e2;
+  height: 230px;
+  left: 539px;
   position: absolute;
-  top: 0;
-  width: 455px;
-}
-
-.home-page .lonas-ERA {
-  height: 143px;
-  left: 752px;
-  object-fit: cover;
-  position: absolute;
-  top: 5px;
-  width: 445px;
+  top: 89px;
+  transform: rotate(-90deg);
+  width: 409px;
 }
 
 .home-page .rectangle-26 {
-  border: 6px solid;
-  border-color: #e2e2e2;
-  height: 154px;
-  left: 747px;
+  background-color: #ffffff;
+  height: 180px;
+  left: 875px;
   position: absolute;
   top: 0;
-  width: 455px;
+  width: 534px;
 }
 
-.home-page .anuncios-financestar {
-  height: 194px;
-  left: 752px;
-  position: absolute;
-  top: 180px;
-  width: 195px;
-}
-
-.home-page .overlap-13 {
-  height: 194px;
-  left: 0;
-  position: absolute;
-  top: 0;
-  width: 98px;
-}
-
-.home-page .anncio {
-  height: 98px;
-  left: 0;
+.home-page .lonas-ERA {
+  height: 168px;
+  left: 881px;
   object-fit: cover;
   position: absolute;
-  top: 0;
-  width: 98px;
-}
-
-.home-page .anncio-2 {
-  height: 98px;
-  left: 0;
-  object-fit: cover;
-  position: absolute;
-  top: 97px;
-  width: 98px;
-}
-
-.home-page .overlap-14 {
-  height: 194px;
-  left: 98px;
-  position: absolute;
-  top: 0;
-  width: 98px;
-}
-
-.home-page .post {
-  height: 97px;
-  left: 0;
-  object-fit: cover;
-  position: absolute;
-  top: 97px;
-  width: 97px;
+  top: 6px;
+  width: 521px;
 }
 
 .home-page .rectangle-27 {
-  border: 6px solid;
+  border: 7.03px solid;
   border-color: #e2e2e2;
-  height: 205px;
-  left: 747px;
+  height: 180px;
+  left: 875px;
   position: absolute;
-  top: 175px;
-  transform: rotate(-90deg);
-  width: 205px;
+  top: 0;
+  width: 534px;
+}
+
+.home-page .anuncios-financestar {
+  height: 228px;
+  left: 881px;
+  position: absolute;
+  top: 211px;
+  width: 229px;
+}
+
+.home-page .overlap-13 {
+  height: 228px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 114px;
+}
+
+.home-page .anncio {
+  height: 114px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 114px;
+}
+
+.home-page .img-2 {
+  height: 114px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 114px;
+  width: 114px;
+}
+
+.home-page .overlap-14 {
+  height: 227px;
+  left: 114px;
+  position: absolute;
+  top: 0;
+  width: 114px;
 }
 
 .home-page .rectangle-28 {
-  border: 6px solid;
+  border: 7.03px solid;
   border-color: #e2e2e2;
-  height: 349px;
+  height: 241px;
+  left: 875px;
+  position: absolute;
+  top: 205px;
+  transform: rotate(-90deg);
+  width: 241px;
+}
+
+.home-page .rectangle-29 {
+  border: 7.03px solid;
+  border-color: #e2e2e2;
+  height: 409px;
   left: 0;
   position: absolute;
   top: 0;
-  width: 526px;
+  width: 616px;
 }
 
 .home-page .vector-7 {
-  height: 5px;
-  left: 46px;
+  height: 6px;
+  left: 54px;
   position: absolute;
-  top: 105px;
-  width: 434px;
+  top: 123px;
+  width: 509px;
 }
 
 .home-page .element-rd-section {
-  height: 710px;
+  height: 832px;
   left: 0;
   position: absolute;
   top: 0;
-  width: 1280px;
+  width: 1500px;
 }
 
 .home-page .overlap-15 {
-  height: 639px;
+  height: 748px;
   position: relative;
-  top: 17px;
+  top: 20px;
 }
 
 .home-page .text-wrapper-25 {
   color: #e2e2e2;
   font-family: "Futura-Bold-Regular", Helvetica;
-  font-size: 50.7px;
+  font-size: 59.4px;
   font-weight: 400;
-  height: 91px;
-  left: 243px;
+  height: 106px;
+  left: 285px;
   letter-spacing: 0;
   line-height: normal;
   position: absolute;
   text-align: center;
   top: 0;
-  width: 990px;
+  width: 1160px;
 }
 
 .home-page .text-wrapper-26 {
   color: #ffb937;
   font-family: "Futura Hv BT-Heavy", Helvetica;
-  font-size: 16.7px;
+  font-size: 19.5px;
   font-weight: 400;
-  height: 32px;
-  left: 999px;
+  height: 38px;
+  left: 1170px;
   letter-spacing: 0;
   line-height: normal;
   position: absolute;
   text-align: center;
-  top: 83px;
-  width: 219px;
+  top: 98px;
+  width: 256px;
 }
 
 .home-page .layer-3 {
-  height: 4px;
-  left: 503px;
+  height: 5px;
+  left: 589px;
   position: absolute;
-  top: 59px;
-  width: 697px;
+  top: 69px;
+  width: 817px;
 }
 
 .home-page .servios-wrapper {
-  height: 535px;
+  height: 627px;
   left: 0;
   overflow: hidden;
   overflow-x: scroll;
   position: absolute;
-  top: 103px;
-  width: 1280px;
+  top: 121px;
+  width: 1500px;
 }
 
 .home-page .servios {
-  height: 445px;
-  left: 57px;
+  height: 522px;
+  left: 66px;
   overflow: hidden;
   position: relative;
-  top: 67px;
-  width: 2591px;
+  top: 78px;
+  width: 3036px;
 }
 
 .home-page .social-media {
   color: #e2e2e2;
   font-family: "Futura Md BT-Medium", Helvetica;
-  font-size: 50.7px;
+  font-size: 59.4px;
   font-weight: 500;
-  height: 122px;
-  left: 71px;
+  height: 142px;
+  left: 83px;
   letter-spacing: 0;
   line-height: normal;
   position: absolute;
   text-align: center;
-  top: 140px;
+  top: 164px;
 }
 
 .home-page .text-wrapper-27 {
   color: #e2e2e2;
   font-family: "Proxima Nova-Regular", Helvetica;
-  font-size: 16px;
+  font-size: 18.7px;
   font-weight: 400;
   left: 0;
   letter-spacing: 0;
-  line-height: 19.7px;
+  line-height: 23.1px;
   position: absolute;
   text-align: center;
-  top: 301px;
-  width: 287px;
+  top: 352px;
+  width: 336px;
 }
 
 .home-page .text-wrapper-28 {
   color: #e2e2e2;
   font-family: "Futura Md BT-Medium", Helvetica;
-  font-size: 50.7px;
+  font-size: 59.4px;
   font-weight: 500;
-  height: 61px;
-  left: 419px;
+  height: 71px;
+  left: 491px;
   letter-spacing: 0;
   line-height: normal;
   position: absolute;
   text-align: center;
-  top: 170px;
+  top: 199px;
+  white-space: nowrap;
 }
 
 .home-page .ignite-your-brand-s {
   color: #e2e2e2;
   font-family: "Proxima Nova-Regular", Helvetica;
-  font-size: 16px;
+  font-size: 18.7px;
   font-weight: 400;
-  left: 355px;
+  left: 416px;
   letter-spacing: 0;
-  line-height: 19.7px;
+  line-height: 23.1px;
   position: absolute;
   text-align: center;
-  top: 301px;
-  width: 287px;
+  top: 352px;
+  width: 336px;
 }
 
 .home-page .amplify-your-brand-s {
   color: #e2e2e2;
   font-family: "Proxima Nova-Regular", Helvetica;
-  font-size: 16px;
+  font-size: 18.7px;
   font-weight: 400;
-  left: 2289px;
+  left: 2682px;
   letter-spacing: 0;
   line-height: normal;
   position: absolute;
   text-align: center;
-  top: 301px;
-  width: 237px;
+  top: 352px;
+  width: 278px;
 }
 
 .home-page .public-relations {
   color: #e2e2e2;
   font-family: "Futura Md BT-Medium", Helvetica;
-  font-size: 62.7px;
+  font-size: 73.4px;
   font-weight: 500;
-  height: 150px;
-  left: 2272px;
+  height: 176px;
+  left: 2662px;
   letter-spacing: 0;
   line-height: normal;
   position: absolute;
   text-align: center;
-  top: 125px;
-  width: 271px;
+  top: 147px;
+  width: 317px;
 }
 
 .home-page .text-wrapper-29 {
   color: #e2e2e2;
   font-family: "Futura Md BT-Medium", Helvetica;
-  font-size: 50.7px;
+  font-size: 59.4px;
   font-weight: 500;
-  height: 61px;
-  left: 1575px;
+  height: 71px;
+  left: 1846px;
   letter-spacing: 0;
   line-height: normal;
   position: absolute;
   text-align: center;
-  top: 170px;
+  top: 199px;
+  white-space: nowrap;
 }
 
 .home-page .text-wrapper-30 {
   color: #e2e2e2;
   font-family: "Proxima Nova-Regular", Helvetica;
-  font-size: 16px;
+  font-size: 18.7px;
   font-weight: 400;
-  left: 1481px;
+  left: 1736px;
   letter-spacing: 0;
-  line-height: 19.7px;
+  line-height: 23.1px;
   position: absolute;
   text-align: center;
-  top: 301px;
-  width: 287px;
+  top: 352px;
+  width: 336px;
 }
 
 .home-page .google-meta-ads {
   color: #e2e2e2;
   font-family: "Futura Md BT-Medium", Helvetica;
-  font-size: 50.7px;
+  font-size: 59.4px;
   font-weight: 500;
-  height: 122px;
-  left: 711px;
+  height: 142px;
+  left: 833px;
   letter-spacing: 0;
   line-height: normal;
   position: absolute;
   text-align: center;
-  top: 140px;
-  width: 323px;
+  top: 164px;
+  width: 378px;
 }
 
 .home-page .text-wrapper-31 {
   color: #e2e2e2;
   font-family: "Proxima Nova-Regular", Helvetica;
-  font-size: 16px;
+  font-size: 18.7px;
   font-weight: 400;
-  left: 729px;
+  left: 854px;
   letter-spacing: 0;
-  line-height: 19.7px;
+  line-height: 23.1px;
   position: absolute;
   text-align: center;
-  top: 301px;
-  width: 287px;
+  top: 352px;
+  width: 336px;
 }
 
 .home-page .text-wrapper-32 {
   color: #e2e2e2;
   font-family: "Proxima Nova-Regular", Helvetica;
-  font-size: 16px;
+  font-size: 18.7px;
   font-weight: 400;
-  left: 1121px;
+  left: 1314px;
   letter-spacing: 0;
   line-height: normal;
   position: absolute;
   text-align: center;
-  top: 301px;
-  width: 272px;
+  top: 352px;
+  width: 319px;
 }
 
 .home-page .text-wrapper-33 {
   color: #e2e2e2;
   font-family: "Futura Md BT-Medium", Helvetica;
-  font-size: 62.7px;
+  font-size: 73.4px;
   font-weight: 500;
-  height: 150px;
-  left: 1102px;
+  height: 176px;
+  left: 1291px;
   letter-spacing: 0;
   line-height: normal;
   position: absolute;
   text-align: center;
-  top: 125px;
-  width: 311px;
+  top: 147px;
+  width: 364px;
 }
 
 .home-page .text-wrapper-34 {
   color: #e2e2e2;
   font-family: "Proxima Nova-Regular", Helvetica;
-  font-size: 16px;
+  font-size: 18.7px;
   font-weight: 400;
-  left: 1893px;
+  left: 2218px;
   letter-spacing: 0;
   line-height: normal;
   position: absolute;
   text-align: center;
-  top: 301px;
-  width: 255px;
+  top: 352px;
+  width: 298px;
 }
 
 .home-page .text-wrapper-35 {
   color: #e2e2e2;
   font-family: "Futura Md BT-Medium", Helvetica;
-  font-size: 62.7px;
+  font-size: 73.4px;
   font-weight: 500;
-  height: 75px;
-  left: 1837px;
+  height: 88px;
+  left: 2152px;
   letter-spacing: 0;
   line-height: normal;
   position: absolute;
   text-align: center;
-  top: 163px;
-  width: 367px;
+  top: 191px;
+  width: 430px;
 }
 
 .home-page .icons {
-  height: 101px;
-  left: 92px;
+  height: 119px;
+  left: 108px;
   position: absolute;
   top: 0;
-  width: 2365px;
+  width: 2772px;
 }
 
 .home-page .online-advertising {
-  height: 101px;
-  left: 729px;
+  height: 118px;
+  left: 855px;
   object-fit: cover;
   position: absolute;
   top: 1px;
-  width: 101px;
+  width: 118px;
 }
 
 .home-page .seo {
-  height: 101px;
-  left: 1482px;
+  height: 118px;
+  left: 1737px;
   object-fit: cover;
   position: absolute;
   top: 0;
-  width: 101px;
+  width: 119px;
 }
 
 .home-page .social-media-2 {
-  height: 101px;
+  height: 118px;
   left: 0;
   object-fit: cover;
   position: absolute;
   top: 1px;
-  width: 101px;
+  width: 118px;
 }
 
 .home-page .web-design {
-  height: 101px;
-  left: 357px;
+  height: 119px;
+  left: 418px;
   object-fit: cover;
   position: absolute;
   top: 0;
-  width: 101px;
+  width: 118px;
 }
 
 .home-page .copywriter {
-  height: 101px;
-  left: 1877px;
+  height: 119px;
+  left: 2200px;
   object-fit: cover;
   position: absolute;
   top: 0;
-  width: 101px;
+  width: 119px;
 }
 
 .home-page .email-marketing {
-  height: 101px;
-  left: 1115px;
+  height: 119px;
+  left: 1307px;
   object-fit: cover;
   position: absolute;
   top: 0;
-  width: 101px;
+  width: 118px;
 }
 
 .home-page .handshake {
-  height: 101px;
-  left: 2265px;
+  height: 118px;
+  left: 2654px;
   object-fit: cover;
   position: absolute;
   top: 1px;
-  width: 101px;
+  width: 118px;
 }
 
 .home-page .element-nd-section {
-  height: 717px;
-  left: 59px;
+  height: 841px;
+  left: 69px;
   position: absolute;
-  top: 679px;
-  width: 1186px;
+  top: 795px;
+  width: 1394px;
 }
 
 .home-page .overlap-16 {
-  height: 607px;
-  left: 37px;
+  height: 712px;
+  left: 44px;
   position: absolute;
   top: 0;
-  width: 785px;
+  width: 920px;
 }
 
 .home-page .overlap-17 {
-  height: 555px;
+  height: 650px;
   left: 0;
   position: absolute;
   top: 0;
-  width: 785px;
+  width: 920px;
 }
 
 .home-page .overlap-18 {
-  height: 171px;
+  height: 200px;
   left: 0;
   position: absolute;
   top: 0;
-  width: 617px;
+  width: 723px;
 }
 
 .home-page .identify-with-me {
   color: #e2e2e2;
   font-family: "Futura-Bold-Regular", Helvetica;
-  font-size: 50.7px;
+  font-size: 59.4px;
   font-weight: 400;
-  height: 163px;
+  height: 191px;
   left: 0;
   letter-spacing: 0;
-  line-height: 50.7px;
+  line-height: 59.4px;
   position: absolute;
   top: 0;
-  width: 617px;
+  width: 723px;
 }
 
 .home-page .text-wrapper-36 {
-  line-height: 38.4px;
+  line-height: 45px;
 }
 
 .home-page .text-wrapper-37 {
-  font-size: 105.3px;
-  line-height: 100.7px;
+  font-size: 123.4px;
+  line-height: 118px;
 }
 
 .home-page .layer-4 {
   height: 5px;
   left: 0;
   position: absolute;
-  top: 130px;
-  width: 391px;
+  top: 152px;
+  width: 459px;
 }
 
 .home-page .text-wrapper-38 {
   color: #ffb337;
   font-family: "Futura Hv BT-Heavy", Helvetica;
-  font-size: 16.7px;
+  font-size: 19.5px;
   font-weight: 400;
-  height: 20px;
-  left: 6px;
+  height: 23px;
+  left: 7px;
   letter-spacing: 0;
   line-height: normal;
   position: absolute;
-  top: 151px;
+  top: 177px;
   white-space: nowrap;
 }
 
 .home-page .overlap-19 {
-  height: 391px;
-  left: 443px;
+  height: 459px;
+  left: 519px;
   position: absolute;
-  top: 163px;
-  width: 342px;
+  top: 191px;
+  width: 401px;
 }
 
 .home-page .me {
-  height: 391px;
-  left: 9px;
+  height: 459px;
+  left: 10px;
   object-fit: cover;
   position: absolute;
   top: 0;
-  width: 333px;
+  width: 391px;
 }
 
 .home-page .me-2 {
-  height: 344px;
+  height: 403px;
   left: 0;
   object-fit: cover;
   position: absolute;
   top: 0;
-  width: 325px;
+  width: 381px;
 }
 
 .home-page .with-years-deep-in {
   color: #e2e2e2;
   font-family: "Proxima Nova-Regular", Helvetica;
-  font-size: 19.3px;
+  font-size: 22.7px;
   font-weight: 400;
   left: 0;
   letter-spacing: 0;
-  line-height: 29.1px;
+  line-height: 34.1px;
   position: absolute;
-  top: 205px;
-  width: 379px;
+  top: 241px;
+  width: 445px;
 }
 
 .home-page .text-wrapper-39 {
   color: #e2e2e2;
   font-family: "Proxima Nova-Regular", Helvetica;
-  font-size: 19.3px;
+  font-size: 22.7px;
   font-weight: 400;
   letter-spacing: 0;
-  line-height: 29.1px;
+  line-height: 34.1px;
 }
 
 .home-page .text-wrapper-40 {
   font-family: "Futura-Bold-Regular", Helvetica;
-  font-size: 44.7px;
-  line-height: 67.2px;
+  font-size: 52.3px;
+  line-height: 78.8px;
 }
 
 .home-page .text-wrapper-41 {
   color: #e2e2e2;
   font-family: "Proxima Nova-Regular", Helvetica;
-  font-size: 33.3px;
+  font-size: 39.1px;
   font-weight: 400;
   left: 0;
   letter-spacing: 0;
   line-height: normal;
   position: absolute;
   text-align: right;
-  top: 680px;
+  top: 796px;
   white-space: nowrap;
-  width: 229px;
+  width: 268px;
 }
 
-.home-page .element-clients {
-  color: transparent;
-  font-family: "Futura-Bold-Regular", Helvetica;
-  font-size: 73.3px;
-  font-weight: 400;
-  left: 947px;
-  letter-spacing: 0;
-  line-height: normal;
+.home-page .overlap-20 {
+  height: 171px;
+  left: 1069px;
   position: absolute;
-  text-align: right;
-  top: 38px;
-  width: 190px;
+  top: 45px;
+  width: 264px;
 }
 
 .home-page .text-wrapper-42 {
   color: #ffb337;
+  font-family: "Futura-Bold-Regular", Helvetica;
+  font-size: 85.9px;
+  font-weight: 400;
+  left: 41px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: right;
+  top: 0;
+  width: 223px;
 }
 
 .home-page .text-wrapper-43 {
   color: #e2e2e2;
   font-family: "Proxima Nova-Regular", Helvetica;
-  font-size: 33.3px;
-}
-
-.home-page .element-projects {
-  color: transparent;
-  font-family: "Futura-Bold-Regular", Helvetica;
-  font-size: 73.3px;
+  font-size: 39.1px;
   font-weight: 400;
-  left: 947px;
+  left: 0;
   letter-spacing: 0;
   line-height: normal;
   position: absolute;
   text-align: right;
-  top: 193px;
-  width: 190px;
+  top: 93px;
+  width: 264px;
+}
+
+.home-page .overlap-21 {
+  height: 166px;
+  left: 1069px;
+  position: absolute;
+  top: 226px;
+  width: 264px;
 }
 
 .home-page .text-wrapper-44 {
   color: #ffcc36;
-}
-
-.home-page .element-meeting {
-  color: transparent;
   font-family: "Futura-Bold-Regular", Helvetica;
-  font-size: 73.3px;
+  font-size: 85.9px;
   font-weight: 400;
-  left: 932px;
+  left: 41px;
   letter-spacing: 0;
   line-height: normal;
   position: absolute;
   text-align: right;
-  top: 348px;
-  width: 205px;
+  top: 0;
+  width: 223px;
 }
 
 .home-page .text-wrapper-45 {
-  color: #ffe634;
-}
-
-.home-page .element-coffees-by-year {
-  color: transparent;
-  font-family: "Futura-Bold-Regular", Helvetica;
-  font-size: 73.3px;
+  color: #e2e2e2;
+  font-family: "Proxima Nova-Regular", Helvetica;
+  font-size: 39.1px;
   font-weight: 400;
-  left: 912px;
+  left: 0;
   letter-spacing: 0;
   line-height: normal;
   position: absolute;
   text-align: right;
-  top: 503px;
-  width: 225px;
+  top: 88px;
+  width: 264px;
+}
+
+.home-page .overlap-22 {
+  height: 165px;
+  left: 1069px;
+  position: absolute;
+  top: 408px;
+  width: 264px;
 }
 
 .home-page .text-wrapper-46 {
-  color: #ffff33;
+  color: #ffe634;
+  font-family: "Futura-Bold-Regular", Helvetica;
+  font-size: 85.9px;
+  font-weight: 400;
+  left: 23px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: right;
+  top: 0;
+  width: 241px;
 }
 
 .home-page .text-wrapper-47 {
   color: #e2e2e2;
   font-family: "Proxima Nova-Regular", Helvetica;
-  font-size: 8.7px;
-}
-
-.home-page .logo-2 {
-  height: 20px;
-  left: 264px;
-  object-fit: cover;
-  position: absolute;
-  top: 691px;
-  width: 16px;
-}
-
-.home-page .logo-3 {
-  height: 20px;
-  left: 524px;
-  object-fit: cover;
-  position: absolute;
-  top: 691px;
-  width: 16px;
-}
-
-.home-page .logo-4 {
-  height: 20px;
-  left: 738px;
-  object-fit: cover;
-  position: absolute;
-  top: 691px;
-  width: 16px;
-}
-
-.home-page .logo-5 {
-  height: 20px;
-  left: 962px;
-  object-fit: cover;
-  position: absolute;
-  top: 691px;
-  width: 16px;
-}
-
-.home-page .text-wrapper-48 {
-  color: #e2e2e2;
-  font-family: "Proxima Nova-Regular", Helvetica;
-  font-size: 33.3px;
+  font-size: 39.1px;
   font-weight: 400;
-  left: 315px;
+  left: 0;
   letter-spacing: 0;
   line-height: normal;
   position: absolute;
   text-align: right;
-  top: 680px;
+  top: 87px;
+  width: 264px;
+}
+
+.home-page .text-wrapper-48 {
+  color: #ffff33;
+  font-family: "Futura-Bold-Regular", Helvetica;
+  font-size: 85.9px;
+  font-weight: 400;
+  left: 1069px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: right;
+  top: 590px;
   white-space: nowrap;
-  width: 173px;
+  width: 264px;
 }
 
 .home-page .text-wrapper-49 {
   color: #e2e2e2;
   font-family: "Proxima Nova-Regular", Helvetica;
-  font-size: 33.3px;
+  font-size: 39.1px;
   font-weight: 400;
-  left: 575px;
+  left: 1069px;
   letter-spacing: 0;
   line-height: normal;
   position: absolute;
   text-align: right;
-  top: 680px;
-  white-space: nowrap;
-  width: 127px;
+  top: 673px;
+  width: 264px;
+}
+
+.home-page .logo-2 {
+  height: 23px;
+  left: 309px;
+  object-fit: cover;
+  position: absolute;
+  top: 810px;
+  width: 19px;
+}
+
+.home-page .logo-3 {
+  height: 23px;
+  left: 614px;
+  object-fit: cover;
+  position: absolute;
+  top: 810px;
+  width: 19px;
+}
+
+.home-page .logo-4 {
+  height: 23px;
+  left: 865px;
+  object-fit: cover;
+  position: absolute;
+  top: 810px;
+  width: 19px;
+}
+
+.home-page .logo-5 {
+  height: 23px;
+  left: 1127px;
+  object-fit: cover;
+  position: absolute;
+  top: 810px;
+  width: 19px;
 }
 
 .home-page .text-wrapper-50 {
   color: #e2e2e2;
   font-family: "Proxima Nova-Regular", Helvetica;
-  font-size: 33.3px;
+  font-size: 39.1px;
   font-weight: 400;
-  left: 789px;
+  left: 370px;
   letter-spacing: 0;
   line-height: normal;
   position: absolute;
   text-align: right;
-  top: 680px;
+  top: 796px;
   white-space: nowrap;
-  width: 137px;
+  width: 203px;
 }
 
 .home-page .text-wrapper-51 {
   color: #e2e2e2;
   font-family: "Proxima Nova-Regular", Helvetica;
-  font-size: 33.3px;
+  font-size: 39.1px;
   font-weight: 400;
-  left: 1013px;
+  left: 674px;
   letter-spacing: 0;
   line-height: normal;
   position: absolute;
   text-align: right;
-  top: 680px;
+  top: 796px;
   white-space: nowrap;
   width: 149px;
 }
 
-.home-page .overlap-20 {
+.home-page .text-wrapper-52 {
+  color: #e2e2e2;
+  font-family: "Proxima Nova-Regular", Helvetica;
+  font-size: 39.1px;
+  font-weight: 400;
+  left: 925px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: right;
+  top: 796px;
+  white-space: nowrap;
+  width: 161px;
+}
+
+.home-page .text-wrapper-53 {
+  color: #e2e2e2;
+  font-family: "Proxima Nova-Regular", Helvetica;
+  font-size: 39.1px;
+  font-weight: 400;
+  left: 1187px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: right;
+  top: 796px;
+  white-space: nowrap;
+  width: 174px;
+}
+
+.home-page .overlap-23 {
   background-image: url(../../../static/img/1st-section.png);
   background-size: 100% 100%;
-  height: 667px;
+  height: 782px;
   left: 0;
   position: absolute;
   top: 0;
-  width: 1280px;
+  width: 1500px;
 }
 
 .home-page .about-instance {
-  height: 22px !important;
-  left: 696px !important;
+  height: 26px !important;
+  left: 816px !important;
   position: absolute !important;
-  top: 31px !important;
-  width: 59px !important;
+  top: 37px !important;
+  width: 69px !important;
 }
 
 .home-page .design-component-instance-node-6 {
-  font-size: 22px !important;
-  height: 22px !important;
+  font-size: 25.8px !important;
+  height: 26px !important;
   left: -1px !important;
+  top: -2px !important;
 }
 
 .home-page .services-instance {
-  height: 22px !important;
-  left: 807px !important;
+  height: 26px !important;
+  left: 945px !important;
   position: absolute !important;
-  top: 31px !important;
-  width: 82px !important;
+  top: 37px !important;
+  width: 96px !important;
 }
 
-.home-page .services-2 {
-  font-size: 22px !important;
-  height: 22px !important;
+.home-page .design-component-instance-node-7 {
+  font-size: 25.8px !important;
+  height: 26px !important;
+  top: -2px !important;
 }
 
 .home-page .portfolio-instance {
-  height: 22px !important;
-  left: 941px !important;
+  height: 26px !important;
+  left: 1102px !important;
   position: absolute !important;
-  top: 31px !important;
-  width: 81px !important;
+  top: 37px !important;
+  width: 95px !important;
 }
 
 .home-page .blog-instance {
-  height: 22px !important;
-  left: 1073px !important;
+  height: 26px !important;
+  left: 1258px !important;
   position: absolute !important;
-  top: 31px !important;
-  width: 45px !important;
+  top: 37px !important;
+  width: 52px !important;
 }
 
 .home-page .blog-2 {
-  font-size: 22px !important;
-  height: 22px !important;
-  left: -11px !important;
+  font-size: 25.8px !important;
+  height: 26px !important;
+  left: -13px !important;
+  top: -2px !important;
 }
 
 .home-page .contact-instance {
-  height: 22px !important;
-  left: 1170px !important;
+  height: 26px !important;
+  left: 1371px !important;
   position: absolute !important;
-  top: 31px !important;
-  width: 75px !important;
+  top: 37px !important;
+  width: 88px !important;
 }
 
 .home-page .top-instance {
   display: flex !important;
-  gap: 6.67px !important;
-  height: 94px !important;
-  left: 1194px !important;
-  padding: 20px 13.33px !important;
+  gap: 7.81px !important;
+  height: 110px !important;
+  left: 1392px !important;
+  padding: 23.44px 15.63px !important;
   position: fixed !important;
-  top: 560px !important;
-  width: 81px !important;
+  top: 647px !important;
+  width: 95px !important;
 }
 
 .home-page .top-2 {
-  box-shadow: 2px 2px 3.33px #ffb33726 !important;
-  height: 54px !important;
-  width: 56px !important;
+  box-shadow: 2.34px 2.34px 3.91px #ffb33726 !important;
+  height: 63.28px !important;
+  width: 65.28px !important;
 }
 
 .home-page .top-3 {
-  border-radius: 27px !important;
-  height: 54px !important;
-  width: 54px !important;
+  border-radius: 31.64px !important;
+  height: 63px !important;
+  width: 63px !important;
 }
 
 .home-page .top-4 {
-  font-size: 12.7px !important;
-  height: 18px !important;
-  left: 9px !important;
-  top: 30px !important;
-  width: 36px !important;
+  font-size: 14.8px !important;
+  height: 21px !important;
+  left: 10px !important;
+  top: 35px !important;
+  width: 43px !important;
 }
 
 .home-page .top-5 {
-  height: 14px !important;
-  left: 27px !important;
-  top: 10px !important;
+  height: 17px !important;
+  left: 32px !important;
+  top: 12px !important;
   width: 1px !important;
 }
