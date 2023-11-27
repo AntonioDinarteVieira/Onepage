@@ -11,6 +11,7 @@ import { Services } from "../../components/Services";
 import { ShortAnswer } from "../../components/ShortAnswer";
 import { SubmitButton } from "../../components/SubmitButton";
 import { Top } from "../../components/Top";
+import { Box } from "../../components/Box/Box";
 import "./style.css";
 
 export const HomePage = () => {
